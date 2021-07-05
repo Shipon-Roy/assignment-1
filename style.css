@@ -1,0 +1,82 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.head{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.fexble-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.oragne{
+    color: orange;
+}
+.main-div{
+    width: 50%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 20px;
+    font-size: 20px;
+}
+.main-div img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 700;
+    color: white;
+}
+.about-section{
+    background-image: url(img/2nd-bg.png);
+    padding: 40px;
+}
+.pecipies-text{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.pecipies-box{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.box{
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.box img{
+    width: 100%;
+    
+}
+.nmbr-count-section{
+    width: 70%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.nmbr-count{
+    width: 40%;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px 40px;
+    
+}
+footer{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
